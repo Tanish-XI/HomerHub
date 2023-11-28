@@ -77,7 +77,7 @@ a:focus {color: #fff;}
 /******* Search & Filter Section Right Under Nav ********/
 /* <div class="search-filter-nav">
         <form class="search-container">
-            <input type="text" id="search-bar" placeholder="San Francisco, CA">
+            <input type="text" id="search-bar" placeholder="Guna, M.P., India">
             <a href="#"><img class="search-icon" src="http://www.endlessicons.com/wp-content/uploads/2012/12/search-icon.png"></a>
           </form>
       </div> */
@@ -659,7 +659,7 @@ https://github.com/kenvantruong/real-estate/blob/master/img-houses/1.png?raw=tru
 
 
 .dropbutton:hover, .dropbutton:focus {
-background-color: ;
+background-color: #000000 ;
 }
 
 .dropdown {
